@@ -655,4 +655,6 @@
     <!-- Whether or not the monitoring on the apps' background battery drain is enabled -->
     <bool name="config_bg_current_drain_monitor_enabled">true</bool>
 
+ <!-- Whether to allow the caching of the SIM PIN for verification after unattended reboot -->
+    <bool name="config_allow_pin_storage_for_unattended_reboot">true</bool>
 </resources>

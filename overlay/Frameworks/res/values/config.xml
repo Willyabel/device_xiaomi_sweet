@@ -633,4 +633,7 @@
 
      <!-- Whether device has VOOC charging support -->
     <bool name="config_hasVoocCharger">true</bool>
+
+     <!-- If this is true, the message that USB is only being used for charging will be shown. -->
+    <bool name="config_usbChargingMessage">true</bool>
 </resources>

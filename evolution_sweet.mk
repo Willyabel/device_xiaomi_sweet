@@ -22,4 +22,9 @@ PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi Note 10 Pro
 PRODUCT_MANUFACTURER := Xiaomi
 
+  <string name="build_maintainer_summary">ᴡɪʟʟʏ ᴀʙᴇʟ</string>
+    <string name="build_maintainer_donate_url">https://t.me/updatewillyAbel</string>
+      <string name="build_status_summary">UNOFFICIAL</string>
+
+
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi

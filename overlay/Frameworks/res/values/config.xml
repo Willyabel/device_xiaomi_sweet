@@ -639,4 +639,8 @@
 
      <!-- The max scale for the wallpaper when it's zoomed in -->
     <item name="config_wallpaperMaxScale" format="float" type="dimen">1.10</item>
+
+     <!-- Whether we should persist the brightness value in nits for the default display even if
+         the underlying display device changes. -->
+    <bool name="config_persistBrightnessNitsForDefaultDisplay">false</bool>
 </resources>

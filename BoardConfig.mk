@@ -196,3 +196,6 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Inherit from proprietary files for miuicamera
 -include vendor/xiaomi/sweet-miuicamera/products/board.mk
+
+# Sony Dolby
+$(call inherit-product, vendor/dolby/config.mk)
